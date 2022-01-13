@@ -183,7 +183,7 @@ img{
     color: var(--first-color);
 }
 
-@media screen and (max-width: 767px) {
+/* @media screen and (max-width: 767px) { */
 
     .nav__menu{
         position: fixed;
@@ -197,7 +197,7 @@ img{
         transition: .3s;
     }
     
-}
+/* } */
 
 .nav__list{
     grid-template-columns: repeat(3, 1fr);
